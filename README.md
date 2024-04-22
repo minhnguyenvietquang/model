@@ -1,3 +1,1 @@
-The art's too long and the life's too short.
-Call me a fool to wage this war against time.
-But I choose to.
+1010010 1100101 1100001 1100100 100000 1110111 1101000 1100001 1110100 111111
