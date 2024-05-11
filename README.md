@@ -1,1 +1,8 @@
-1010010 1100101 1100001 1100100 100000 1110111 1101000 1100001 1110100 111111
+SOC - Software Group
+DCAI - Data Center Solutions
+HW - Hardware Solutions
+CCG - PC and Client Computers
+VEBL - Veblen Goods
+BIO - Biotech and Healthcare
+COMM - Commodities
+MISC - Random stuff I am curious about
