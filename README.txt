@@ -1,0 +1,1 @@
+Do your own work. Will only show models to PMs and at friendly requests.
